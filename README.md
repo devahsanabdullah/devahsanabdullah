@@ -9,7 +9,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ahsan-abdullah-4812bb236/"><img src="https://img.shields.io/badge/-devumair-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:m.ahsan8588@gmail.com"><img src="https://img.shields.io/badge/-devumair260@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:m.ahsan8588@gmail.com"><img src="https://img.shields.io/badge/-m.ahsan8588@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://join.skype.com/invite/x9Hx6ZijswqH"><img src="https://img.shields.io/badge/-devumair-00AFF0?style=flat&logo=Skype&logoColor=white"/></a>
 
 
