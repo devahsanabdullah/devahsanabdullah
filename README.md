@@ -1,4 +1,4 @@
-### Hey there, I'm Umair Azmat 👋
+### Hey there, I'm Ahsan Abdullah 👋
 
 ## I am a Coding Maniac, WordPress and Full Stack Web Developer (MERN).
 
@@ -8,11 +8,11 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/umair-azmat-364a5a1a5/"><img src="https://img.shields.io/badge/-devumair-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahsan-abdullah-4812bb236/"><img src="https://img.shields.io/badge/-devumair-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:devumair260@gmail.com"><img src="https://img.shields.io/badge/-devumair260@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://join.skype.com/invite/wX0rMaj2bGyZ"><img src="https://img.shields.io/badge/-devumair-00AFF0?style=flat&logo=Skype&logoColor=white"/></a>
-<a href="https://leetcode.com/umairazmat/"><img src="https://img.shields.io/badge/-devumair-FFA116?style=flat&logo=Leetcode&logoColor=black"/></a>
-<a href="https://dev-devumairazmat.pantheonsite.io/"><img src="https://img.shields.io/badge/-devumair-000000?style=flat&logo=About.me&logoColor=white"/></a>
+
+<a href="https://dev-devahsanabdullah.pantheonsite.io/"><img src="https://img.shields.io/badge/-devumair-000000?style=flat&logo=About.me&logoColor=white"/></a>
 
 
 </p>
@@ -30,15 +30,15 @@
   </tr>
   <tr>
     <td>
-<a href="https://github.com/devumairazmat/devumairazmat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devumairazmat&show_icons=true&line_height=27&count_private=true&title_color=#00ccff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Dev Umair GitHub Stats" />
+<a href="https://github.com/devahsanabdullah/devahsanabdullah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devahsanabdullah&show_icons=true&line_height=27&count_private=true&title_color=#00ccff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Dev Umair GitHub Stats" />
 </a></td>
     <td>
    
 
 
-  <a href="https://github.com/devumairazmat/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devumairazmat&theme=highcontrast" />
+  <a href="https://github.com/devahsanabdullah/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devahsanabdullah&theme=highcontrast" />
 </a>
 </td>
   </tr>
@@ -47,15 +47,15 @@
 <!-- Trpophies -->
 
 ## Trophies
-![https://github.com/devumairazmat?tab=repositories](https://github-profile-trophy.vercel.app/?username=devumairazmat&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
+![https://github.com/devahsanabdullah?tab=repositories](https://github-profile-trophy.vercel.app/?username=devahsanabdullah&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
 
 
-<a href="[http://www.github.com/hicodersofficial](https://github.com/devumairazmat?tab=repositories)"><img src="https://activity-graph.herokuapp.com/graph?username=devumairazmat&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=#00ccff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="[http://www.github.com/hicodersofficial](https://github.com/devahsanabdullah?tab=repositories)"><img src="https://activity-graph.herokuapp.com/graph?username=devahsanabdullah&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=#00ccff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 ## Consistency:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devumairazmat&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devahsanabdullah&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
 <!-- Tools And Techs -->
 
@@ -134,16 +134,16 @@
 ## Achievements:
 
 <div align="center">  
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=devumairazmat&margin-w=15&margin-h=15" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=devahsanabdullah&margin-w=15&margin-h=15" />
 
 </div>
 
 <br />
 <!-- 
-<a href="https://github.com/devumairazmat/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devumairazmat&repo=github-readme-stats" />
+<a href="https://github.com/devahsanabdullah/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devahsanabdullah&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/devumairazmat/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devumairazmat&repo=convoychat" />
+<a href="https://github.com/devahsanabdullah/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devahsanabdullah&repo=convoychat" />
 </a>
  -->
